@@ -1,0 +1,24 @@
+
+.form-floating1{
+  text-align: center;
+  width: 400px;
+  display: inline-block;
+  padding-top: 50px;
+  padding-right: 20px;
+}
+.form-floating2 {
+  text-align: center;
+  width: 400px;
+  display: inline-block;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+.form-signin{
+  padding-top: 100px;
+}
+.Sign-in{
+  width: 400px;
+  text-align: center;
+  display: inline-block;
+  padding-top: 30px;
+}
