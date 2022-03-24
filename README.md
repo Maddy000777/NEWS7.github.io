@@ -1,1 +1,1 @@
-# NEWS7.github.io
+# NEWS 24/7.github.io
